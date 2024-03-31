@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B99FA31A-005E-40CC-93C6-2236D90E19E5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C537780-3CC2-48CF-B054-499F92D4B531"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestAbzAgency/CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "fetchRequests(complited:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C537780-3CC2-48CF-B054-499F92D4B531 - f49cbd08d8d8c5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestAbzAgency.CoreDataManager.fetchRequests(complited: (Swift.Array&lt;TestAbzAgency.Request&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestAbzAgency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vitaliitsiomenko/TestAbzAgency/TestAbzAgency/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "0C537780-3CC2-48CF-B054-499F92D4B531 - f49cbd08d8d8c5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestAbzAgency.CoreDataManager.fetchRequests(complited: (Swift.Array&lt;TestAbzAgency.Request&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestAbzAgency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vitaliitsiomenko/TestAbzAgency/TestAbzAgency/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1272">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08B59F87-BECB-4695-93D3-7ADD74074781"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestAbzAgency/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "scene(_:openURLContexts:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB8D6B2C-41C2-4C51-8679-A1B2D2894A27"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestAbzAgency/CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "saveRequest(urlString:text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AB8D6B2C-41C2-4C51-8679-A1B2D2894A27 - 90887e23db2e3759"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestAbzAgency.CoreDataManager.saveRequest(urlString: Swift.String, text: Swift.String) -&gt; ()"
+                  moduleName = "TestAbzAgency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vitaliitsiomenko/TestAbzAgency/TestAbzAgency/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1540">
+               </Location>
+               <Location
+                  uuid = "AB8D6B2C-41C2-4C51-8679-A1B2D2894A27 - 90887e23db2e3759"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestAbzAgency.CoreDataManager.saveRequest(urlString: Swift.String, text: Swift.String) -&gt; ()"
+                  moduleName = "TestAbzAgency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vitaliitsiomenko/TestAbzAgency/TestAbzAgency/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "296326B0-77FF-485F-882A-C10C63636F9F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestAbzAgency/CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "fetchRequests(complited:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B52405BF-E4A3-4AA8-82C9-A28A204DF1DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestAbzAgency/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "persistentCoordinator"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
